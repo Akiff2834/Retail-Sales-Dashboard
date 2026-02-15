@@ -1,0 +1,2 @@
+*.html linguist-vendored=true
+*.png  linguist-documentation=true
